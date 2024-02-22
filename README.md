@@ -32,7 +32,7 @@
 * https://frds.io/measures/kyle_lambda/
 * https://alpaca.markets/data
 * https://www.alphavantage.co/documentation/
-* 
+  
 
   
 
