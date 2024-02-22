@@ -7,6 +7,8 @@
 * [Project Overview](#project-overview)
 * [Data Collection](#data-collection)
 * [Processing of Data](#processing-of-data)
+* [Exploratory Data Analysis](#exploratory-data-analysis)
+* [Statistical Analysis](#statistical-analysis)
 * 
 
 
@@ -21,4 +23,6 @@
 ## Data Collection
   Gathering data every half hour. 
 ## Processing of Data
+## Exploratory Data Analysis
+## Statistical Analysis 
 
