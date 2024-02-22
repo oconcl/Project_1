@@ -1,3 +1,5 @@
 # Tesla Data Oracle:
 ## Machine Learning Performance Forecasting
-Repository for Project 1
+### Repository for Project 1
+---
+Table of Contents 
