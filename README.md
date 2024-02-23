@@ -1,7 +1,5 @@
-# Tesla Data Oracle:
-## Machine Learning Trade Cost Analysis
----
-## Repository for Project 1
+# Project 1: Tesla Data Oracle
+## Using Machine Learning to Explore TSLA US Trade Cost Analysis
 ---
 ## Table of Contents 
 * [Executive Summary](#executive-summary)
