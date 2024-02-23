@@ -20,7 +20,7 @@
   Alpaca public API's provided data over the past five years on a 30-minute basis. The PG traders knew the more granular volume data, the more helpful the experiment would be in determining potential market impact. They first started by calling variables for objects such as volume, closing price, VWAP, date, trade count, and high and low of the day. Once they explored the data, then to make it more digestable they parsed it into specific time frames such as weekly and monthly volume data. Their goal was to determine a pattern of what days were high and low volume and what factors drove Lambda changes on those days. The traders sorted their volume data to determine the highest volume days and decided to remove earnings days given high volatility and unpredictable conditions. Once they removed earnings days they were left a smaller sample set of low Lambda days to analyze. 
   
 ## Approach
-  PG traders used visualizations in MathPlotLib to view and identify volume spikes through visualizations and statistical analysis that identifies any volume days which have greater than 2-standard deviation move. 
+  PG traders used visualizations in MatPlotLib to view and identify volume spikes through visualizations and statistical analysis that identifies any volume days which have greater than 2-standard deviation move. 
   
   learned the highest volume days of the past five years that were not earnings days, happened to be days of index rebalance inclusion, such as the S&P500 index changes. They decided the most opportune time to trade was on an index rebalance day. These days fell once per quarter and the next one coming up would be x. 
 
