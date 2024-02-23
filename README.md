@@ -1,5 +1,5 @@
 # Tesla Data Oracle:
-## Machine Learning Performance Forecasting
+## Machine Learning Trade Cost Analysis
 ---
 ## Repository for Project 1
 ---
@@ -20,9 +20,9 @@
 
 
 ## Project Overview
-  Our objective is to analyze historical stock market data from alpaca and yahoo finance, specifically on Tesla Stock, and develop a machine leanring model that can predict stock market price movement.
+  Our objective is to analyze historical stock market data from alpaca and yahoo finance, specifically on TSLA US, and develop a machine learning model that can predict stock market price movement.
 ## Data Collection
-  Gathering data every half hour. 
+  Gathering data every half hour for the past five years. 
 ## Processing of Data
 ## Exploratory Data Analysis
 ## Statistical Analysis 
