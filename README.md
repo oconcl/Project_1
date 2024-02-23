@@ -20,7 +20,7 @@
 
 
 ## Project Overview
-  Our objective is to analyze historicla stock market data from alpaca and yahoo finance, specifically on Tesla Stock, and develop a machine leanring model that can predict stock market price movement.
+  Our objective is to analyze historical stock market data from alpaca and yahoo finance, specifically on Tesla Stock, and develop a machine leanring model that can predict stock market price movement.
 ## Data Collection
   Gathering data every half hour. 
 ## Processing of Data
