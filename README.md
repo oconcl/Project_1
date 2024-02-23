@@ -31,9 +31,12 @@
 ## Exploratory Data Analysis
 ## Statistical Analysis 
 ## Machine Learning Developments
-*Model Selection: Experiment with different models suitable for time series forecasting, like ARIMA (Autoregressive Integrated Moving Average), LSTM (Long Short-Term Memory networks), or Gated Recurrent Units (GRUs).
-*Feature Engineering: Incorporate lag features, moving averages, and RSI (Relative Strength Index).
-*Training and Testing: Employ scikit-learn and deep learning libraries like tensorflow or keras for model training. Use a rolling forecast origin for more accurate time series forecasting.
+
+* Model Selection: Experiment with different models suitable for time series forecasting, like ARIMA (Autoregressive Integrated Moving Average), LSTM (Long Short-Term Memory networks), or Gated Recurrent Units (GRUs).
+
+* Feature Engineering: Incorporate lag features, moving averages, and RSI (Relative Strength Index).
+* Training and Testing: Employ scikit-learn and deep learning libraries like tensorflow or keras for model training. Use a rolling forecast origin for more accurate time series forecasting.
+  
 ## Results and Conclusion
 ## Resources 
 * https://github.com/quantopian
