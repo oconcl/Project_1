@@ -9,6 +9,7 @@
 * [Processing of Data](#processing-of-data)
 * [Exploratory Data Analysis](#exploratory-data-analysis)
 * [Statistical Analysis](#statistical-analysis)
+* [Volume Analysis](#volume-analysis) 
 * [Machine Learning Developments](#machine-learning-developments)
 * [Resources](#resources)
 
