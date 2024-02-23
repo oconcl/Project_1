@@ -8,6 +8,7 @@
 * [Approach](#approach)
 * [Results and Conclusions](#results-and-conclusions)
 * [Further Research](#further-research)
+* [Collaboration and Version Control](#collaboration-and-version-control)
 * [Resources](#resources)
 
 ## Executive Summary
@@ -24,6 +25,11 @@
   learned the highest volume days of the past five years that were not earnings days, happened to be days of index rebalance inclusion, such as the S&P500 index changes. They decided the most opportune time to trade was on an index rebalance day. These days fell once per quarter and the next one coming up would be x. 
 
 ## Results and Conclusions
+  - handful of dates when there are high standard deviation volume moves, and why there was such high spikes in volumes
+
+## Collaboration and Version Control
+  Version Control: Use git for version control and platforms like GitHub for collaboration, code sharing, and tracking changes.
+Project Management: Consider tools like Jupyter Notebooks for sharing code and results in a readable format or Trello for task management.
 
 ## Resources 
 * [Quantopian](https://github.com/quantopian)
