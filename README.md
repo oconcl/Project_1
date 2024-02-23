@@ -31,6 +31,7 @@
 * Feature Selection: Choose relevant features that could influence stock prices, like previous days' prices, moving averages, or technical indicators.
 ## Exploratory Data Analysis
 ## Statistical Analysis 
+## Volume Analysis
 ## Machine Learning Developments
 
 * Model Selection: Experiment with different models suitable for time series forecasting, like ARIMA (Autoregressive Integrated Moving Average), LSTM (Long Short-Term Memory networks), or Gated Recurrent Units (GRUs).
