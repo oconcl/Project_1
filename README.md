@@ -11,6 +11,7 @@
 * [Statistical Analysis](#statistical-analysis)
 * [Volume Analysis](#volume-analysis) 
 * [Machine Learning Developments](#machine-learning-developments)
+* [Collaboration and Project Management](#collaboration-and-project-management)
 * [Results and Conclusion](#results-and-conclusion)
 * [Resources](#resources)
 
@@ -36,6 +37,12 @@
 
 * Feature Engineering: Incorporate lag features, moving averages, and RSI (Relative Strength Index).
 * Training and Testing: Employ scikit-learn and deep learning libraries like tensorflow or keras for model training. Use a rolling forecast origin for more accurate time series forecasting.
+  
+## Collaboration and Project Management
+
+* Use GitHub for version control and collaboration.
+* Use project management tools like Jupyter Notebooks for documentation and sharing interim results.
+* Utilization of VS Code.
   
 ## Results and Conclusion
 ## Resources 
