@@ -4,12 +4,12 @@
 ## Repository for Project 1
 ---
 ## Table of Contents 
-* [Project Overview](#project-overview)
-* [Data Collection](#data-collection)
-* [Processing of Data](#processing-of-data)
-* [Exploratory Data Analysis](#exploratory-data-analysis)
-* [Statistical Analysis](#statistical-analysis)
+* [Executive Summary](#executive-summary)
+* [Data Collection, Cleanup and Exploration](#data-collection-cleanup-and-exploration)
+* [Approach](#approach)
 * [Machine Learning Developments](#machine-learning-developments)
+* [Results and Conclusions](#results-and-conclusions)
+* [Further Research](#further-research)
 * [Resources](#resources)
 
 
@@ -34,12 +34,12 @@
 ## Results and Conclusions
 
 ## Resources 
-* https://github.com/quantopian
-* https://frds.io/measures/kyle_lambda/
-* https://alpaca.markets/data
-* https://finance.yahoo.com/quote/TSLA/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAF523cXjMPfBSYf_9GiKR7BOjZzGxmMlkw428EYYxwkW7kzJDvhsk_0jiKTLMISF1RzESWiViBZrSmEIyG_zOlkPJ3xE0ADL8UIbkVipAiWlEwblr5xHOc33LT7UZcQorYaqk0-N4KsINTo9zTmIdUVasgCJztHugVaoYHOKZMfN
-* https://ycharts.com/companies/TSLA/average_volume_30
-* https://www.alphavantage.co/documentation/
+* [Quantopian](https://github.com/quantopian)
+* [Kyle's Lambda](https://frds.io/measures/kyle_lambda/)
+* [Alpaca](https://alpaca.markets/data)
+* [Yahoo Finance](https://finance.yahoo.com/quote/TSLA/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAF523cXjMPfBSYf_9GiKR7BOjZzGxmMlkw428EYYxwkW7kzJDvhsk_0jiKTLMISF1RzESWiViBZrSmEIyG_zOlkPJ3xE0ADL8UIbkVipAiWlEwblr5xHOc33LT7UZcQorYaqk0-N4KsINTo9zTmIdUVasgCJztHugVaoYHOKZMfN)
+* [Volume Analysis](https://ycharts.com/companies/TSLA/average_volume_30)
+* [AlphaVantage](https://www.alphavantage.co/documentation/)
   
 
   
