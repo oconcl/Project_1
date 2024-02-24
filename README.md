@@ -7,7 +7,7 @@
 * [Data Collection, Cleanup and Exploration](#data-collection-cleanup-and-exploration)
 * [Approach](#approach)
 * [Results and Conclusions](#results-and-conclusions)
-* [Further Research](#further-research)
+* [Future Delevopments](#future-developments)
 * [Collaboration and Version Control](#collaboration-and-version-control)
 * [Resources](#resources)
 
@@ -26,16 +26,24 @@
 
 ## Results and Conclusions
   - handful of dates when there are high standard deviation volume moves, and why there was such high spikes in volumes
+    
+## Future Developments 
+* Machine Learning Development:
+Model Selection: Experiment with different models suitable for time series forecasting, like ARIMA (Autoregressive Integrated Moving Average), LSTM (Long Short-Term Memory networks), or Gated Recurrent Units (GRUs).
+
+* Feature Engineering: Incorporate lag features, moving averages, and RSI (Relative Strength Index).
+
+* Training and Testing: Employ scikit-learn and deep learning libraries like tensorflow or keras for model training. Use a rolling forecast origin for more accurate time series forecasting.
 
 ## Collaboration and Version Control
-  Version Control: Use git for version control and platforms like GitHub for collaboration, code sharing, and tracking changes.
-Project Management: Consider tools like Jupyter Notebooks for sharing code and results in a readable format or Trello for task management.
+* Version Control: Use git for version control and platforms like GitHub for collaboration, code sharing, and tracking changes.
+* Project Management: Consider tools like Jupyter Notebooks for sharing code and results in a readable format or Trello for task management.
 
 ## Resources 
 * [Quantopian](https://github.com/quantopian)
 * [Kyle's Lambda](https://frds.io/measures/kyle_lambda/)
 * [Alpaca](https://alpaca.markets/data)
-* [Yahoo Finance](https://finance.yahoo.com/quote/TSLA/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAF523cXjMPfBSYf_9GiKR7BOjZzGxmMlkw428EYYxwkW7kzJDvhsk_0jiKTLMISF1RzESWiViBZrSmEIyG_zOlkPJ3xE0ADL8UIbkVipAiWlEwblr5xHOc33LT7UZcQorYaqk0-N4KsINTo9zTmIdUVasgCJztHugVaoYHOKZMfN)
+* [Yahoo Finance](https://finance.yahoo.com/quote/TSLA/?   guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAF523cXjMPfBSYf_9GiKR7BOjZzGxmMlkw428EYYxwkW7kzJDvhsk_0jiKTLMISF1RzESWiViBZrSmEIyG_zOlkPJ3xE0ADL8UIbkVipAiWlEwblr5xHOc33LT7UZcQorYaqk0-N4KsINTo9zTmIdUVasgCJztHugVaoYHOKZMfN)
 * [Volume Analysis](https://ycharts.com/companies/TSLA/average_volume_30)
 * [AlphaVantage](https://www.alphavantage.co/documentation/)
   
