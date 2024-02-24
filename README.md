@@ -27,13 +27,23 @@
 ## Results and Conclusions
   - handful of dates when there are high standard deviation volume moves, and why there was such high spikes in volumes
     
-## Future Developments 
+## Future Developments and Alternative Processes
 * Machine Learning Development:
 Model Selection: Experiment with different models suitable for time series forecasting, like ARIMA (Autoregressive Integrated Moving Average), LSTM (Long Short-Term Memory networks), or Gated Recurrent Units (GRUs).
 
 * Feature Engineering: Incorporate lag features, moving averages, and RSI (Relative Strength Index).
 
 * Training and Testing: Employ scikit-learn and deep learning libraries like tensorflow or keras for model training. Use a rolling forecast origin for more accurate time series forecasting.
+
+Machine learning or alternative process
+Data Collection:
+
+* Relevant data is collected from various sources. This can include historical records, sensor data, user interactions, or any other information pertinent to the problem at hand.
+Data Cleaning and Preprocessing:
+
+* Raw data often contains noise, missing values, outliers, or inconsistencies. Data cleaning involves handling these issues to ensure the dataset is suitable for analysis.
+Preprocessing involves transforming the data into a format suitable for machine learning algorithms. This may include normalization, standardization, encoding categorical variables, and handling imbalanced data.
+
 
 ## Collaboration and Version Control
 * Version Control: Use git for version control and platforms like GitHub for collaboration, code sharing, and tracking changes.
