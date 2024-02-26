@@ -24,14 +24,14 @@
 
   The project depends on several Python libraries, including Alpaca Trade API, Pandas, Matplotlib, and others. To install all required dependencies, navigate to your project directory and run: `pip install alpaca-trade-api matplotlib pandas hvplot python-dotenv numpy requests`
 
-  1. Create a file named .env in the root directory of your project.
+  1. Create a file named api_keys.env in the root directory of your project.
   2. Add your Alpaca API Key and Secret Key to the .env file as follows:
 
   ```
   ALPACA_API_KEY=your_alpaca_api_key_here
   ALPACA_SECRET_KEY=your_alpaca_secret_key_here
   ```
-  
+
   Make sure to replace your_alpaca_api_key_here and your_alpaca_secret_key_here with your actual Alpaca API and Secret keys
 
 ## Data Collection, Cleanup and Exploration
