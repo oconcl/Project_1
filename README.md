@@ -28,6 +28,7 @@
 
   ```ALPACA_API_KEY=your_alpaca_api_key_here
   ALPACA_SECRET_KEY=your_alpaca_secret_key_here
+  ```
 
 
   Make sure to replace your_alpaca_api_key_here and your_alpaca_secret_key_here with your actual Alpaca API and Secret keys
