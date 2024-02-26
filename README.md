@@ -26,8 +26,8 @@
   1. Create a file named .env in the root directory of your project.
   2. Add your Alpaca API Key and Secret Key to the .env file as follows:
 
-  `ALPACA_API_KEY=your_alpaca_api_key_here
-  ALPACA_SECRET_KEY=your_alpaca_secret_key_here`
+  ```ALPACA_API_KEY=your_alpaca_api_key_here
+  ALPACA_SECRET_KEY=your_alpaca_secret_key_here
 
 
   Make sure to replace your_alpaca_api_key_here and your_alpaca_secret_key_here with your actual Alpaca API and Secret keys
