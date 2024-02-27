@@ -7,7 +7,7 @@
 * [Data Collection, Cleanup and Exploration](#data-collection-cleanup-and-exploration)
 * [Approach](#approach)
 * [Results and Conclusions](#results-and-conclusions)
-* [Future Delevopments](#future-developments)
+* [Future Delevopments and Alternative Processes](#future-developments-and-alternative-processes)
 * [Collaboration and Version Control](#collaboration-and-version-control)
 * [Resources](#resources)
 * [Presentation-Project 1- Tesla Data Oracle](#presentation-project-1-tesla-data-oracle)
