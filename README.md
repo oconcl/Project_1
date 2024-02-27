@@ -71,7 +71,7 @@ Preprocessing involves transforming the data into a format suitable for machine 
 * [Quantopian](https://github.com/quantopian)
 * [Kyle's Lambda](https://frds.io/measures/kyle_lambda/)
 * [Alpaca](https://alpaca.markets/data)
-* [Yahoo Finance](https://finance.yahoo.com/quote/TSLA/?   guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAF523cXjMPfBSYf_9GiKR7BOjZzGxmMlkw428EYYxwkW7kzJDvhsk_0jiKTLMISF1RzESWiViBZrSmEIyG_zOlkPJ3xE0ADL8UIbkVipAiWlEwblr5xHOc33LT7UZcQorYaqk0-N4KsINTo9zTmIdUVasgCJztHugVaoYHOKZMfN)
+* [Yahoo Finance](https://finance.yahoo.com/quote/TSLA/)
 * [Volume Analysis](https://ycharts.com/companies/TSLA/average_volume_30)
 * [AlphaVantage](https://www.alphavantage.co/documentation/)
 
