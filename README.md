@@ -65,7 +65,7 @@ Preprocessing involves transforming the data into a format suitable for machine 
 
 ## Collaboration and Version Control
 * Version Control: Use git for version control and platforms like GitHub for collaboration, code sharing, and tracking changes.
-* Project Management: Consider tools like Jupyter Notebooks for sharing code and results in a readable format or Trello for task management.
+* Project Management: Consider tools like Jupyter Notebooks for sharing code and results in a readable format or slack for task management with further communication channels.
 
 ## Resources 
 * [Quantopian](https://github.com/quantopian)
