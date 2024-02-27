@@ -10,6 +10,8 @@
 * [Future Delevopments](#future-developments)
 * [Collaboration and Version Control](#collaboration-and-version-control)
 * [Resources](#resources)
+* [Presentation-Project 1- Tesla Data Oracle](#presentation-project-1-tesla-data-oracle)
+* 
 
 ## Executive Summary
   A hedge fund, Prestige Global, recently had an in-flow of $7,800,000,000 from an un-named wealthy investor. Prestige Global decided to allocate 25% of this investor's funds into TSLA US to reflect their current portfolio allocation. The traders at PG realized the 25% allocation of $1,950,000,000 into TSLA US returned an illiquid buy of 10,000,000 shares. This equated to  roughly 10% of TSLA US's 20-day ADV (average daily volume, as of 2/22/24). In order to execute this trade, PG traders knew they would need to spread the trade over a portion of the day to reduct market impact and minimize trade cost. The traders decided to run a volume analysis to identify what time of day produced the lowest Lambda levels. This ultimately would help decipher what time of day the market was able to absorb 10,000,000 shares of TSLA US with the lowest level of market impact. 
@@ -72,7 +74,9 @@ Preprocessing involves transforming the data into a format suitable for machine 
 * [Yahoo Finance](https://finance.yahoo.com/quote/TSLA/?   guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAF523cXjMPfBSYf_9GiKR7BOjZzGxmMlkw428EYYxwkW7kzJDvhsk_0jiKTLMISF1RzESWiViBZrSmEIyG_zOlkPJ3xE0ADL8UIbkVipAiWlEwblr5xHOc33LT7UZcQorYaqk0-N4KsINTo9zTmIdUVasgCJztHugVaoYHOKZMfN)
 * [Volume Analysis](https://ycharts.com/companies/TSLA/average_volume_30)
 * [AlphaVantage](https://www.alphavantage.co/documentation/)
-  
+
+## Presentation- Project 1- Tesla Data Oracle
+
 
   
 
