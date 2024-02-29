@@ -76,7 +76,8 @@ Preprocessing involves transforming the data into a format suitable for machine 
 * [AlphaVantage](https://www.alphavantage.co/documentation/)
 
 ## Presentation- Project 1- Tesla Data Oracle
-*[Presentatio-Project 1-Tesla Data Oracle](https://docs.google.com/presentation/d/1r4tG0oLFC5CsPSsEmXK9KXeECqXcN7PoJ-IAhAQoRYU/edit?userstoinvite=claireoconnor255%40gmail.com&sharingaction=manageaccess&role=writer#slide=id.p1)
+* [Presentatio-Project 1-Tesla Data Oracle](https://docs.google.com/presentation/d/1r4tG0oLFC5CsPSsEmXK9KXeECqXcN7PoJ-IAhAQoRYU/edit?userstoinvite=claireoconnor255%40gmail.com&sharingaction=manageaccess&role=writer#slide=id.p1)
+  
 
 
   
