@@ -3,7 +3,7 @@
 ---
 ## Table of Contents 
 * [Executive Summary](#executive-summary)
-* [Project Ideation](projection-ideation)
+* [Project Ideation](#projection-ideation)
 * [Installation and Usage Instructions](#installation-and-usage-instructions)
 * [Data Collection, Cleanup and Exploration](#data-collection-cleanup-and-exploration)
 * [Approach](#approach)
