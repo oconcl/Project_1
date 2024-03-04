@@ -33,7 +33,7 @@ Short-Term Goal: Development of volume analysis tool
   * Python 3.8 or later
   * pip (Python package manager)
 
-  The project depends on several Python libraries, including Alpaca Trade API, Pandas, Matplotlib, and others. To install all required dependencies, navigate to your project directory and run: `pip install alpaca-trade-api matplotlib pandas hvplot python-dotenv numpy requests`
+  The project depends on several Python libraries, including Alpaca Trade API, Pandas, Matplotlib, and others. To install all required dependencies, navigate to your project directory and run: `pip install alpaca-trade-api matplotlib pandas hvplot python-dotenv numpy requests plotly`
 
   1. Create a file named api_keys.env in the root directory of your project.
   2. Add your Alpaca API Key and Secret Key to the .env file as follows:
